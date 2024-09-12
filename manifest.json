@@ -1,0 +1,18 @@
+{
+    "name": "Pass Gen",
+    "short_name": "Pass Gen",
+    "start_url": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "key128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "key.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }  
+    ]
+}
